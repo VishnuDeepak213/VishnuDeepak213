@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm a recent graduate in AI and data science <br>I'm looking for AI and Data roles <br>I did AI agent, data science and Ml,Dl projects<br>
+🎓 Recent Graduate in Artificial Intelligence & Data Science
+🤖 Built AI Agent, Machine Learning, Deep Learning & Data Science Projects
+📊 Passionate about Generative AI, LLMs, NLP & Predictive Analytics
+🧠 Strong interest in intelligent automation and scalable AI solutions<br>
+💼 Actively seeking opportunities in AI, Machine Learning & Data Science roles<br>
+⚡ Continuously learning and exploring cutting-edge AI technologies<br>
 
 
 ## 🌐 Socials:
