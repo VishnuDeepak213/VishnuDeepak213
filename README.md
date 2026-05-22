@@ -1,10 +1,10 @@
 # 💫 About Me:
-🎓 Recent Graduate in Artificial Intelligence & Data Science
-🤖 Built AI Agent, Machine Learning, Deep Learning & Data Science Projects
-📊 Passionate about Generative AI, LLMs, NLP & Predictive Analytics
-🧠 Strong interest in intelligent automation and scalable AI solutions<br>
-💼 Actively seeking opportunities in AI, Machine Learning & Data Science roles<br>
-⚡ Continuously learning and exploring cutting-edge AI technologies<br>
+Recent Graduate in Artificial Intelligence & Data Science<br>
+Built AI Agent, Machine Learning, Deep Learning & Data Science Projects <br>
+Passionate about Generative AI, LLMs, NLP & Predictive Analytics<br>
+Strong interest in intelligent automation and scalable AI solutions<br>
+Actively seeking opportunities in AI, Machine Learning & Data Science roles<br>
+Continuously learning and exploring cutting-edge AI technologies<br>
 
 
 ## 🌐 Socials:
